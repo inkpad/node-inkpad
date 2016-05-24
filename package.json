@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/inkpad/node-inkpad/issues"
   },
-  "homepage": "https://github.com/inkpad/node-inkpad#readme"
+  "homepage": "https://github.com/inkpad/node-inkpad#readme",
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "lodash": "^4.13.1",
+    "request": "^2.72.0"
+  }
 }
